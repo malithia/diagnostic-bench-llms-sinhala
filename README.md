@@ -1,4 +1,4 @@
-# Identifying thematic issues in using LLM-based conversational systems for Sinhala
+# Identifying limitations in using LLM-based conversational systems for Sinhala
 
 ## Background and purpose
 Large Language Models (LLMs) can significantly improve the quality and efficiency of linguistic and information seeking behaviours
