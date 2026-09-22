@@ -10,26 +10,26 @@ different type of task, but any one model did not produce outstanding results wi
 Sinhala is a diglossic langauge, where there is a high variety of the language used for formal and written use, and a low variety of the language used in informal settings. The set of tasks used were set to include both instances of language usage. A snapshot of the tasks and the type of variety expected is below:
 
 Text generation:
-- [A Facebook post to advertise a clothing business](text-gen-1.txt) - Informal  
-- [A cover letter for a job application](text-gen-2.txt) - Formal  
-- [A letter to the bank](text-gen-3.txt) - Formal  
-- [A public notice for a blood donation compaign](text-gen-4.txt) - Formal  
-- [A Facebook post for a voluntary cleaning programme](text-gen-5.txt) - Informal  
+- [A Facebook post to advertise a clothing business](diagnostic-bench-llms-sinhala/text-gen/text-gen-1.txt) - Informal  
+- [A cover letter for a job application](diagnostic-bench-llms-sinhala/text-gen/text-gen-2.txt) - Formal  
+- [A letter to the bank](diagnostic-bench-llms-sinhala/text-gen/text-gen-3.txt) - Formal  
+- [A public notice for a blood donation compaign](diagnostic-bench-llms-sinhala/text-gen/text-gen-4.txt) - Formal  
+- [A Facebook post for a voluntary cleaning programme](diagnostic-bench-llms-sinhala/text-gen/text-gen-5.txt) - Informal  
 
 Translation:
-- [A newspaper article on psychological safety at work](translation-1.txt) - Informal and conversational  
-- [A road closure notice](translation-2.txt) - Formal  
-- [A newspaper article on mindfulness and other related concepts](translation-3.txt) - Could be translated formally, but the original article has elements of conversational style  
-- [A newspaper article on introducing property taxes](translation-4.txt) - Formal  
-- [A newspaper article regarding a warning by the health ministry](translation-5.txt) - Formal  
+- [A newspaper article on psychological safety at work](diagnostic-bench-llms-sinhala/translation/translation-1.txt) - Informal and conversational  
+- [A road closure notice](diagnostic-bench-llms-sinhala/translation/translation-2.txt) - Formal  
+- [A newspaper article on mindfulness and other related concepts](diagnostic-bench-llms-sinhala/translation/translation-3.txt) - Could be translated formally, but the original article has elements of conversational style  
+- [A newspaper article on introducing property taxes](diagnostic-bench-llms-sinhala/translation/translation-4.txt) - Formal  
+- [A newspaper article regarding a warning by the health ministry](diagnostic-bench-llms-sinhala/translation/translation-5.txt) - Formal  
 
 Information retrieval:
 
-- [Information on registering a new vehicle](retreival-1.txt) - Informal  
-- [Information on getting a national identity card](retrieval-2.txt) - Informal  
-- [Information on getting a new electricity connection](retrieval-3.txt) - Informal  
-- [Information on taxes](text-gen-4.txt) - Informal  
-- [Information on getting street lamps](text-gen-5.txt) - Informal  
+- [Information on registering a new vehicle](diagnostic-bench-llms-sinhala/retrieval/retrieval-1.txt) - Informal  
+- [Information on getting a national identity card](diagnostic-bench-llms-sinhala/retrieval/retrieval-2.txt) - Informal  
+- [Information on getting a new electricity connection](diagnostic-bench-llms-sinhala/retrieval/retrieval-3.txt) - Informal  
+- [Information on taxes](diagnostic-bench-llms-sinhala/retrieval/retrieval-4.txt) - Informal  
+- [Information on getting street lamps](diagnostic-bench-llms-sinhala/retrieval/retrieval-5.txt) - Informal  
 
 The models reponded suitably well in generating formal responses. However, the informal language sounded superficial and formulaic, often times not sounding like human speech. 
 
